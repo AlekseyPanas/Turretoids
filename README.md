@@ -19,5 +19,11 @@ Additional features in mind:
 - Samuel Jacobson
 - Aleksey Panas
 
+### Installation Instructions
+- Download python 3 from https://www.python.org/
+- Clone repository
+- Run install script
+- Run asteroids.py
+
 ### Screenshots:
 - N/A
