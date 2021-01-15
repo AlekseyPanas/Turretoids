@@ -6,7 +6,7 @@ This project is a simple asteroids styled game made in pygame. The bulk of the g
 ### Development Progress
 
 - [x] Pygame client:  
-  ![100%](https://progress-bar.dev/95)
+  ![100%](https://progress-bar.dev/100)
 
 ### Planned Features
 Additional features in mind:
