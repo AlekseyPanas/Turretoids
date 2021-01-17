@@ -1,7 +1,7 @@
 # Turretoids
 
 ### About
-This project is a simple asteroids styled game made in pygame. The bulk of the game was built in 6 hours together with a friend.
+This project is a simple asteroids styled game made in pygame. The bulk of the game was built in 6 hours together with a friend
 
 ### Development Progress
 
